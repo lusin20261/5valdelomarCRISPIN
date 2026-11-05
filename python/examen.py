@@ -1,0 +1,11 @@
+a=input("¿como te llamas?")
+print("yo me llamo ximena")
+b=input("¿cual es tu comida favorita?")
+print("mi comida favorita es el arros con pollo")
+c=input("¿cuantos meses tiene tu hermano?")
+print("tiene 7 meses")
+d=input("¿cuantos años tienes?")
+print("tengo 11 años")
+e=input("¿cual es tu color favorito")
+print("mi color favorito es el negro y el blanco")
+
